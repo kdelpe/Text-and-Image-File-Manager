@@ -129,7 +129,7 @@ int main()
                     exit(1);
                 }
             } 
-            cout << "Input file data read successfully"! << endl << endl;
+            cout << "Input file data read successfully!" << endl << endl;
             continue; 
         }
 
